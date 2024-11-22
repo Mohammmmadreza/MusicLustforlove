@@ -295,7 +295,7 @@ body {
     background-size: cover;
     vertical-align: middle; }
     .page-home .overlay {
-      background-color: rgba(14, 17, 24, 0.97);
+      background-color: rgba(14, 17, 24, 0.50);
   }
   /* End of container */
   .hexagon-item {
